@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userealculate",
+        "uuid": 8121348,
+        "checksum": "bmxhz"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
